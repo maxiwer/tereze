@@ -6,6 +6,10 @@ nav {
     margin: 2vh 0 0 1vw;
 }
 
+span {
+    cursor: pointer;
+}
+
 .white-txt {
     font-size: 1.5em;
 }
